@@ -207,7 +207,7 @@ void Pokemon::clearPokemon(){
  */ 
 multimap<int, Pokemon> readInsertTMMoves(multimap<int, Pokemon> &pokemonMap, unordered_map<string, Move> &moveMap){
 	ifstream tmMoveInput;
-	tmMoveInput.open("TMLearnSets.csv");
+	tmMoveInput.open("./input/TMLearnSets.csv");
 	string movelinestring, substring;
 	int pokemonDexno = 1; //dexno iterates the dexnumber of the pokemon based on the line of the inputfile
 	unordered_map<string, Move>::iterator moveMapIt;

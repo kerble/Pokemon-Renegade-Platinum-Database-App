@@ -33,21 +33,18 @@ bool Move::operator>(const Move& m)const{
 	return(this->name > m.name);
 }
 ostream& operator<<(ostream& outStream, const Move& MV){
-	// cout << MV.getName() << ", " << MV.getType() << ", " << MV.getCategory() << ", "
-	// << MV.getPP() << ", ";
+
 	printf("%-15s %-8s %-8s %2d ", MV.getName().c_str(), MV.getType().c_str(), MV.getCategory().c_str(), MV.getPP());
 	if(MV.getPower() == 251){ //status moves that have no power
 		cout << "--- ";
 	}
 	else{
-		// cout << MV.getPower() << ", ";
 		printf("%3d ", MV.getPower());
 	}
 	if(MV.getAccuracy() == 404 || MV.getAccuracy() == 251){ //moves whose accuracy bypass
 		cout << "--- ";			//accuracy checks or status moves like swords dance
 	}
 	else{
-		// cout << MV.getAccuracy();
 		printf("%3d", MV.getAccuracy());
 	}
 
