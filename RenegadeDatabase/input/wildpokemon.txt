@@ -1,0 +1,877 @@
+Twinleaf Town
+Levels: 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (65%), Poliwag (35%)
+Good Rod    Magikarp (65%), Poliwag (35%)
+Super Rod   Gyarados (65%), Poliwhirl (35%)
+ 
+Route 201
+Levels: 4 - 5 (Walking)
+==================================================================================================================================
+Morning     Starly (30%), Bidoof (30%), Pidgey (10%), Kricketot (10%), NidoranM (10%), NidoranF (10%)
+Day         Starly (30%), Bidoof (30%), Pidgey (20%), NidoranM (10%), NidoranF (10%)
+Night       Starly (30%), Bidoof (30%), Hoothoot (10%), Kricketot (10%), NidoranM (10%), NidoranF (10%)
+Poke Radar  Doduo (22%)
+ 
+Lake Verity
+Levels: 4 - 5 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Day         Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Night       Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Poke Radar  Wynaut (22%)
+Surf        Surskit (90%), Masquerain (10%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Route 202
+Levels: 5 - 6 (Walking)
+==================================================================================================================================
+Morning     Shinx (20%), Zigzagoon (20%), Sentret (20%), Rattata (10%), Poochyena (10%), Growlithe (10%), Burmy (10%)
+Day         Shinx (20%), Zigzagoon (20%), Sentret (20%), Rattata (10%), Poochyena (10%), Growlithe (10%), Burmy (10%)
+Night       Shinx (20%), Zigzagoon (20%), Hoothoot (20%), Rattata (10%), Poochyena (10%), Growlithe (10%), Burmy (10%)
+Poke Radar  Houndour (22%)
+ 
+Route 204 ~ South
+Levels: 6 - 7 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Wurmple (10%), Ledyba (10%)
+Day         Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Wurmple (10%), Sunkern (10%)
+Night       Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Oddish (10%), Spinarak (10%)
+Poke Radar  Roselia (22%)
+Surf        Marill (90%), Azumarill (10%)
+Old Rod     Magikarp (60%), Goldeen (30%), Corphish (10%)
+Good Rod    Magikarp (60%), Goldeen (30%), Corphish (10%)
+Super Rod   Gyarados (60%), Seaking (30%), Crawdaunt (10%)
+ 
+Ravaged Path
+Levels: 6 - 8 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Zubat (30%), Geodude (20%), Wooper (20%), Psyduck (10%), Sandshrew (10%), Makuhita (10%)
+Day         Zubat (30%), Geodude (20%), Wooper (20%), Psyduck (10%), Sandshrew (10%), Makuhita (10%)
+Night       Zubat (30%), Geodude (20%), Wooper (20%), Psyduck (10%), Sandshrew (10%), Makuhita (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 203
+Levels: 7 - 8 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Starly (25%), Bidoof (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Day         Starly (25%), Bidoof (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Night       Starly (25%), Bidoof (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Poke Radar  Pineco (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (65%), Corphish (35%)
+Good Rod    Magikarp (60%), Corphish (35%)
+Super Rod   Gyarados (60%), Crawdaunt (35%)
+ 
+Oreburgh Gate ~ 1F
+Levels: 7 - 9 (Walking)
+==================================================================================================================================
+Morning     Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Day         Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Night       Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+ 
+Oreburgh Gate ~ B1F
+Levels: 8 - 10 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Day         Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Night       Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Surf        Zubat (90%), Golbat (10%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 207
+Levels: 9 - 10 (Walking), 21 (Honey Tree)
+==================================================================================================================================
+Morning     Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)
+Day         Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)
+Night       Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)
+Poke Radar  Stantler (22%)
+Honey Tree  Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)
+ 
+Oreburgh Mine ~ 1F
+Levels: 9 - 10 (Walking)
+==================================================================================================================================
+Morning     Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+Day         Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+Night       Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+ 
+Oreburgh Mine ~ B1F
+Levels: 10 - 11 (Walking)
+==================================================================================================================================
+Morning     Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+Day         Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+Night       Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+ 
+Route 204 ~ North
+Levels: 11 - 12 (Walking)
+==================================================================================================================================
+Morning     Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Wurmple (10%), Ledyba (10%)
+Day         Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Wurmple (10%), Sunkern (10%)
+Night       Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Oddish (10%), Spinarak (10%)
+Poke Radar  Roselia (22%)
+ 
+Valley Windworks
+Levels: 11 - 13 (Walking), 20 - 40 (Surfing), 12 (Honey Tree)
+==================================================================================================================================
+Morning     Magnemite (20%), Elekid (20%), Electrike (20%), Voltorb (20%), Drifloon (10%), Pachirisu (10%)
+Day         Magnemite (20%), Elekid (20%), Electrike (20%), Voltorb (20%), Drifloon (10%), Pachirisu (10%)
+Night       Magnemite (20%), Elekid (20%), Electrike (20%), Voltorb (20%), Drifloon (10%), Pachirisu (10%)
+Poke Radar  Plusle (11%), Minun (11%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Old Rod     Magikarp (60%), Shellder (30%), Chinchou (10%)
+Good Rod    Magikarp (60%), Shellder (30%), Chinchou (10%)
+Super Rod   Gyarados (60%), Cloyster (30%), Lanturn (10%)
+Honey Tree  Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (10%)
+ 
+Floaroma Meadow
+Levels: 12 (Honey Tree)
+==================================================================================================================================
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+ 
+Route 205 ~ South
+Levels: 11 - 13 (Walking), 20 - 40 (Surfing), 12 (Honey Tree)
+==================================================================================================================================
+Morning     Shellos (30%), Mareep (20%), Buizel (20%), Hoppip (20%), Pachirisu (10%)
+Day         Shellos (30%), Mareep (20%), Buizel (20%), Hoppip (20%), Pachirisu (10%)
+Night       Shellos (30%), Mareep (20%), Buizel (20%), Venonat (20%), Pachirisu (10%)
+Poke Radar  Plusle (11%), Minun (11%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Old Rod     Magikarp (60%), Shellder (30%), Chinchou (10%)
+Good Rod    Magikarp (60%), Shellder (30%), Chinchou (10%)
+Super Rod   Gyarados (60%), Cloyster (30%), Lanturn (10%)
+Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (10%)
+ 
+Eterna Forest
+Levels: 14 - 16 (Walking)
+==================================================================================================================================
+Morning     Buneary (30%), Shroomish (20%), Paras (20%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Day         Buneary (30%), Shroomish (20%), Paras (20%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Night       Buneary (30%), Shroomish (20%), Murkrow (10%), Misdreavus (10%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Poke Radar  Beautifly (11%), Dustox (11%)
+ 
+Eterna Forest ~ Outside
+Levels: 15 (Honey Tree)
+==================================================================================================================================
+Honey Tree  Beedrill (100%)
+ 
+Old Chateau
+Levels: 15 - 18 (Walking)
+==================================================================================================================================
+Morning     Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Day         Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Night       Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+ 
+Route 205 ~ North
+Levels: 15 - 17 (Walking), 20 - 40 (Surfing), 16 (Honey Tree)
+==================================================================================================================================
+Morning     Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Day         Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Night       Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Poke Radar  Yanma (22%)
+Surf        Marill (90%), Azumarill (10%)
+Old Rod     Magikarp (65%), Corphish (35%)
+Good Rod    Magikarp (65%), Corphish (35%)
+Super Rod   Gyarados (65%), Crawdaunt (35%)
+Honey Tree  Starly (30%), Pidgey (20%), Hoothoot (20%), Taillow (20%), Farfetch'd (10%)
+ 
+Eterna City
+Levels: 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (60%), Poliwag (30%), Dratini (10%)
+Good Rod    Magikarp (60%), Poliwag (30%), Dratini (10%)
+Super Rod   Gyarados (60%), Poliwhirl (30%), Dragonair (10%)
+ 
+Route 211 ~ West
+Levels: 16 - 18 (Walking)
+==================================================================================================================================
+Morning     Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Day         Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Night       Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Poke Radar  Tyrogue (22%)
+ 
+Mt. Coronet ~ Route 211 Entrance
+Levels: 16 - 18 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Cleffa (10%), Nosepass (10%), Chingling (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Day         Geodude (20%), Bronzor (20%), Cleffa (10%), Nosepass (10%), Chingling (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Night       Geodude (20%), Bronzor (20%), Cleffa (10%), Nosepass (10%), Chingling (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+ 
+Route 211 ~ East
+Levels: 18 - 19 (Walking), 18 (Honey Tree)
+==================================================================================================================================
+Morning     Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Day         Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Night       Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Poke Radar  Tyrogue (22%)
+Honey Tree  Aipom (30%), Slakoth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)
+ 
+Mt. Coronet ~ Tunnel to Route 211 Entrance
+Levels: 18 - 19 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+ 
+Mt. Coronet ~ B1F
+Levels: 18 - 20 (Walking), 30 - 45 (Surfing)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Surf        Spheal (60%), Seel (30%), Sealeo (10%)
+Old Rod     Feebas (100%)
+Good Rod    Feebas (100%)
+Super Rod   Feebas (100%)
+ 
+Mt. Coronet ~ Route 216 Entrance
+Levels: 18 - 19 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock (5%), Lunatone (5%)
+ 
+Route 216
+Levels: 18 - 20 (Walking)
+==================================================================================================================================
+Morning     Snover (30%), Swinub (25%), Smoochum (20%), Snorunt (15%), Sneasel (10%)
+Day         Snover (30%), Swinub (25%), Smoochum (20%), Snorunt (15%), Sneasel (10%)
+Night       Snover (30%), Swinub (25%), Smoochum (20%), Snorunt (15%), Sneasel (10%)
+Poke Radar  Delibird (22%)
+ 
+Route 206
+Levels: 20 - 22 (Walking), 21 (Honey Tree)
+==================================================================================================================================
+Morning     Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Day         Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Night       Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Poke Radar  Torkoal (22%)
+Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)
+ 
+Wayward Cave
+Levels: 20 - 22 (Walking)
+==================================================================================================================================
+Morning     Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (10%), Onix (10%), Sableye (5%), Mawile (5%)
+Day         Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (10%), Onix (10%), Sableye (5%), Mawile (5%)
+Night       Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (10%), Onix (10%), Sableye (5%), Mawile (5%)
+ 
+Mt. Coronet ~ Route 207 Entrance
+Levels: 22 - 23 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Surf        Zubat (90%), Golbat (10%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 208
+Levels: 23 - 24 (Walking), 20 - 40 (Surfing), 23 (Honey Tree)
+==================================================================================================================================
+Morning     Bibarel (20%), Roselia (20%), Skitty (10%), Jigglypuff (10%), Kirlia (10%), Zangoose (10%), Seviper (10%), Smeargle (10%)
+Day         Bibarel (20%), Roselia (20%), Skitty (10%), Jigglypuff (10%), Kirlia (10%), Zangoose (10%), Seviper (10%), Smeargle (10%)
+Night       Bibarel (20%), Roselia (20%), Skitty (10%), Jigglypuff (10%), Kirlia (10%), Zangoose (10%), Seviper (10%), Smeargle (10%)
+Poke Radar  Dunsparce (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (60%), Goldeen (30%), Remoraid (10%)
+Good Rod    Magikarp (60%), Goldeen (30%), Remoraid (10%)
+Super Rod   Gyarados (60%), Seaking (30%), Octillery (10%)
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+ 
+Route 212 ~ North
+Levels: 24 - 26 (Walking), 20 - 40 (Surfing), 25 (Honey Tree)
+==================================================================================================================================
+Morning     Staravia (30%), Marill (20%), Roselia (10%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Day         Staravia (30%), Marill (20%), Roselia (10%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Night       Staravia (30%), Marill (20%), Roselia (10%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Poke Radar  Farfetch'd (22%)
+Surf        Marill (90%), Azumarill (10%)
+Old Rod     Magikarp (65%), Goldeen (35%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Super Rod   Gyarados (65%), Seaking (35%)
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+ 
+Trophy Garden
+Levels: 24 - 26 (Walking)
+==================================================================================================================================
+Morning     Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi (10%), Porygon (10%), Happiny (10%), Eevee (10%)
+Day         Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi (10%), Porygon (10%), Happiny (10%), Eevee (10%)
+Night       Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi (10%), Porygon (10%), Happiny (10%), Eevee (10%)
+Poke Radar  Castform (22%)
+ 
+Route 209
+Levels: 24 - 26 (Walking), 20 - 40 (Surfing), 27 (Honey Tree)
+==================================================================================================================================
+Morning     Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Day         Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Night       Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Poke Radar  Purugly (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (65%), Goldeen (35%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Super Rod   Gyarados (65%), Seaking (35%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)
+ 
+Lost Tower
+Levels: 26 - 30 (Walking)
+==================================================================================================================================
+Morning     Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+Day         Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+Night       Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+ 
+Solaceon Ruins
+Levels: 20 - 30 (Walking)
+==================================================================================================================================
+Morning     Unown (100%)
+Day         Unown (100%)
+Night       Unown (100%)
+ 
+Route 210 ~ South
+Levels: 28 - 30 (Walking), 29 (Honey Tree)
+==================================================================================================================================
+Morning     Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Rapidash (5%)
+Day         Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Rapidash (5%)
+Night       Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Noctowl (10%), Rapidash (5%)
+Poke Radar  Kecleon (22%)
+Honey Tree  Combee (30%), Pineco (20%), Silcoon (10%), Cascoon (10%), Wormadam (10%), Mothim (10%), Heracross (10%)
+ 
+Route 215
+Levels: 27 - 30 (Walking), 28 (Honey Tree)
+==================================================================================================================================
+Morning     Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)
+Day         Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)
+Night       Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)
+Poke Radar  Absol (22%)
+Honey Tree  Aipom (30%), Vigoroth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)
+ 
+Route 214
+Levels: 28 - 32 (Walking), 20 - 40 (Surfing), 30 (Honey Tree)
+==================================================================================================================================
+Morning     Graveler (30%), Houndour (20%), Rhyhorn (15%), Numel (15%), Spoink (10%), Cacnea (10%)
+Day         Graveler (30%), Houndour (20%), Rhyhorn (15%), Numel (15%), Spoink (10%), Cacnea (10%)
+Night       Graveler (30%), Houndour (20%), Rhyhorn (15%), Numel (15%), Spoink (10%), Cacnea (10%)
+Poke Radar  Spinda (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (65%), Goldeen (35%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Super Rod   Gyarados (65%), Seaking (35%)
+Honey Tree  Aipom (30%), Vigoroth (20%), Butterfree (20%), Beedrill (20%), Munchlax (10%)
+ 
+Maniac Tunnel
+Levels: 28 - 32 (Walking)
+==================================================================================================================================
+Morning     Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+Day         Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+Night       Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+ 
+Valor Lakefront
+Levels: 31 - 33 (Walking)
+==================================================================================================================================
+Morning     Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Day         Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Night       Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Poke Radar  Venomoth (22%)
+ 
+Route 213
+Levels: 32 - 34 (Walking), 20 - 40 (Surfing), 33 (Honey Tree)
+==================================================================================================================================
+Morning     Gastrodon (25%), Floatzel (20%), Pelipper (20%), Swellow (20%), Chatot (10%), Shuckle (5%)
+Day         Gastrodon (25%), Floatzel (20%), Pelipper (20%), Swellow (20%), Chatot (10%), Shuckle (5%)
+Night       Gastrodon (35%), Floatzel (20%), Pelipper (20%), Swellow (20%), Shuckle (5%)
+Poke Radar  Absol (22%)
+Surf        Tentacool (60%), Wingull (30%), Tentacruel (5%), Pelipper (5%)
+Old Rod     Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Good Rod    Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Super Rod   Gyarados (60%), Octillery (30%), Wailord (10%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)
+ 
+Pastoria City
+Levels: 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Old Rod     Magikarp (60%), Poliwag (30%), Carvanha (10%)
+Good Rod    Magikarp (60%), Poliwag (30%), Carvanha (10%)
+Super Rod   Gyarados (60%), Poliwhirl (30%), Sharpedo (10%)
+ 
+Great Marsh ~ Area 1 & 2
+Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Bibarel (30%), Quagsire (20%), Tropius (20%), Tangela (20%), Carnivine (10%)
+Day         Bibarel (30%), Quagsire (20%), Tropius (20%), Tangela (20%), Carnivine (10%)
+Night       Bibarel (30%), Quagsire (20%), Tropius (20%), Tangela (20%), Carnivine (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Old Rod     Magikarp (60%), Barboach (30%), Carvanha (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+Super Rod   Gyarados (60%), Whiscash (30%), Sharpedo (10%)
+ 
+Great Marsh ~ Area 3 & 4
+Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Parasect (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Day         Parasect (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Night       Parasect (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Old Rod     Magikarp (60%), Barboach (30%), Carvanha (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+Super Rod   Gyarados (60%), Whiscash (30%), Sharpedo (10%)
+ 
+Great Marsh ~ Area 5 & 6
+Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Skorupi (30%), Gulpin (20%), Shroomish (20%), Swalot (10%), Breloom (10%), Drapion (10%)
+Day         Skorupi (30%), Gulpin (20%), Shroomish (20%), Swalot (10%), Breloom (10%), Drapion (10%)
+Night       Skorupi (30%), Gulpin (20%), Shroomish (20%), Swalot (10%), Breloom (10%), Drapion (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Old Rod     Magikarp (60%), Barboach (30%), Carvanha (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+Super Rod   Gyarados (60%), Whiscash (30%), Sharpedo (10%)
+ 
+Route 212 ~ South
+Levels: 33 - 36 (Walking), 20 - 40 (Surfing), 34 (Honey Tree)
+==================================================================================================================================
+Morning     Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Toxicroak (5%)
+Day         Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Toxicroak (5%)
+Night       Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Toxicroak (5%)
+Poke Radar  Muk (11%), Weezing (11%)
+Surf        Shellos (60%), Wooper (30%), Gastrodon (5%), Quagsire (5%)
+Old Rod     Magikarp (60%), Barboach (30%), Remoraid (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Remoraid (10%)
+Super Rod   Gyarados (60%), Whiscash (30%), Octillery (10%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+ 
+Route 210 ~ North
+Levels: 34 - 38 (Walking), 20 - 40 (Surfing), 37 (Honey Tree)
+==================================================================================================================================
+Morning     Swablu (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (10%)
+Day         Swablu (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (10%)
+Night       Swablu (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (10%)
+Poke Radar  Altaria (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (60%), Horsea (30%), Dratini (10%)
+Good Rod    Magikarp (60%), Horsea (30%), Dratini (10%)
+Super Rod   Gyarados (60%), Seadra (30%), Dragonair (10%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)
+ 
+Celestic Town
+Levels: 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Psyduck (90%), Golduck (10%)
+Old Rod     Magikarp (90%), Relicanth (10%)
+Good Rod    Magikarp (90%), Relicanth (10%)
+Super Rod   Gyarados (90%), Relicanth (10%)
+ 
+Route 219
+Levels: 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Old Rod     Krabby (60%), Horsea (30%), Clamperl (10%)
+Good Rod    Krabby (60%), Horsea (30%), Clamperl (10%)
+Super Rod   Kingler (60%), Horsea (30%), Huntail (5%), Gorebyss (5%)
+ 
+Route 220
+Levels: 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Wingull (60%), Mantyke (30%), Pelipper (5%), Mantine (5%)
+Old Rod     Luvdisc (60%), Horsea (30%), Corsola (10%)
+Good Rod    Luvdisc (60%), Horsea (30%), Corsola (10%)
+Super Rod   Luvdisc (60%), Seadra (30%), Corsola (10%)
+ 
+Route 221
+Levels: 38 - 40 (Walking), 30 - 45 (Surfing), 39 (Honey Tree)
+==================================================================================================================================
+Morning     Sudowoodo (20%), Skuntank (20%), Nidorina (15%), Nidorino (15%), Farfetch'd (10%), Girafarig (10%), Dodrio (10%)
+Day         Sudowoodo (20%), Skuntank (20%), Nidorina (15%), Nidorino (15%), Farfetch'd (10%), Girafarig (10%), Dodrio (10%)
+Night       Sudowoodo (20%), Skuntank (20%), Nidorina (15%), Nidorino (15%), Farfetch'd (10%), Girafarig (10%), Dodrio (10%)
+Poke Radar  Shuckle (5%)
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Old Rod     Krabby (60%), Horsea (30%), Clamperl (10%)
+Good Rod    Krabby (60%), Horsea (30%), Clamperl (10%)
+Super Rod   Kingler (60%), Horsea (30%), Huntail (5%), Gorebyss (5%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+ 
+Fuego Ironworks
+Levels: 36 - 40 (Walking), 30 - 45 (Surfing), 40 (Honey Tree)
+==================================================================================================================================
+Morning     Magnemite (30%), Magmar (20%), Magneton (20%), Manectric (15%), Forretress (15%)
+Day         Magnemite (30%), Magmar (20%), Magneton (20%), Manectric (15%), Forretress (15%)
+Night       Magnemite (30%), Magmar (20%), Magneton (20%), Manectric (15%), Forretress (15%)
+Poke Radar  Weezing (22%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (65%), Finneon (35%)
+Super Rod   Gyarados (60%), Lumineon (35%), Shellder (5%)
+Honey Tree  Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)
+ 
+Route 218
+Levels: 38 - 39 (Walking), 20 - 45 (Surfing), 39 (Honey Tree)
+==================================================================================================================================
+Morning     Floatzel (20%), Gastrodon (20%), Purugly (10%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Electabuzz (10%), Chatot (10%)
+Day         Floatzel (20%), Gastrodon (20%), Purugly (10%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Electabuzz (10%), Chatot (10%)
+Night       Floatzel (20%), Gastrodon (20%), Purugly (20%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Electabuzz (10%)
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Old Rod     Magikarp (60%), Finneon (30%), Staryu (10%)
+Good Rod    Magikarp (60%), Finneon (30%), Staryu (10%)
+Super Rod   Gyarados (60%), Lumineon (30%), Starmie (10%)
+Honey Tree  Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)
+ 
+Canalave City
+Levels: 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Old Rod     Magikarp (60%), Finneon (30%), Staryu (10%)
+Good Rod    Magikarp (60%), Finneon (30%), Staryu (10%)
+Super Rod   Gyarados (60%), Lumineon (30%), Starmie (10%)
+ 
+Iron Island ~ Outside
+Levels: 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Old Rod     Magikarp (60%), Finneon (30%), Qwilfish (10%)
+Good Rod    Magikarp (60%), Finneon (30%), Qwilfish (10%)
+Super Rod   Gyarados (60%), Lumineon (30%), Qwilfish (10%)
+ 
+Iron Island ~ 1F, B1F
+Levels: 41 - 43 (Walking)
+==================================================================================================================================
+Morning     Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Day         Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Night       Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+ 
+Iron Island ~ B2F, B3F
+Levels: 43 - 45 (Walking)
+==================================================================================================================================
+Morning     Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Day         Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Night       Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+ 
+Route 217
+Levels: 44 - 48 (Walking)
+==================================================================================================================================
+Morning     Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Day         Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poke Radar  Froslass (22%)
+ 
+Acuity Lakefront
+Levels: 45 - 49 (Walking)
+==================================================================================================================================
+Morning     Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Day         Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poke Radar  Froslass (22%)
+ 
+Snowpoint Temple
+Levels: 47 - 50 (Walking)
+==================================================================================================================================
+Morning     Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+Day         Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+Night       Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+ 
+Lake Acuity
+Levels: 49 - 51 (Walking), 45 - 50 (Surfing)
+==================================================================================================================================
+Morning     Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Day         Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Night       Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Poke Radar  Wobbuffet (22%)
+Surf        Sealeo (60%), Dewgong (35%), Lapras (5%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Mt. Coronet ~ 2F
+Levels: 49 - 51 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+ 
+Mt. Coronet ~ 3F
+Levels: 49 - 51 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+ 
+Mt. Coronet ~ Snow Area
+Levels: 50 - 52 (Walking)
+==================================================================================================================================
+Morning     Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Day         Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Night       Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Poke Radar  Clefable (22%)
+ 
+Mt. Coronet ~ 4F
+Levels: 50 - 52 (Walking), 35 - 55 (Surfing)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Surf        Zubat (90%), Golbat (10%)
+Old Rod     Magikarp (60%), Horsea (30%), Dratini (10%)
+Good Rod    Magikarp (60%), Horsea (30%), Dratini (10%)
+Super Rod   Gyarados (60%), Seadra (30%), Dragonair (10%)
+ 
+Mt. Coronet ~ Summit
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Day         Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Night       Abomasnow (30%), Medicham (20%), Loudred (20%), Absol (10%), Donphan (10%), Ursaring (10%)
+Poke Radar  Clefable (22%)
+ 
+Mt. Coronet ~ 5F
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+ 
+Mt. Coronet ~ 6F
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+ 
+Mt. Coronet ~ 7F
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Golbat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+ 
+Sendoff Spring
+Levels: 53 - 54 (Walking), 45 - 55 (Surfing)
+==================================================================================================================================
+Morning     Staravia (30%), Bibarel (20%), Chimecho (20%), Solrock (10%), Lunatone (10%), Dusclops (10%)
+Day         Staravia (30%), Bibarel (20%), Chimecho (20%), Solrock (10%), Lunatone (10%), Dusclops (10%)
+Night       Staravia (30%), Bibarel (20%), Chimecho (20%), Solrock (10%), Lunatone (10%), Dusclops (10%)
+Poke Radar  Wobbuffet (22%)
+Surf        Golduck (100%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Lake Valor
+Levels: 53 - 54 (Walking), 35 - 55 (Surfing)
+==================================================================================================================================
+Morning     Staravia (30%), Bibarel (30%), Masquerain (20%), Lickitung (10%), Golduck (10%)
+Day         Staravia (30%), Bibarel (30%), Masquerain (20%), Lickitung (10%), Golduck (10%)
+Night       Staravia (30%), Bibarel (30%), Masquerain (20%), Lickitung (10%), Golduck (10%)
+Poke Radar  Wobbuffet (22%)
+Surf        Surskit (90%), Masquerain (10%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Route 222
+Levels: 53 - 54 (Walking), 35 - 55 (Surfing), 54 (Honey Tree)
+==================================================================================================================================
+Morning     Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%), Chatot (10%)
+Day         Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%), Chatot (10%)
+Night       Electabuzz (20%), Floatzel (20%), Luxio (20%), Purugly (10%), Pelipper (10%), Flaaffy (10%), Mr. Mime (10%)
+Poke Radar  Delcatty (22%)
+Surf        Tentacool (60%), Wingull (30%), Tentacruel (5%), Pelipper (5%)
+Old Rod     Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Good Rod    Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Super Rod   Gyarados (60%), Wailmer (30%), Octillery (5%), Wailord (5%)
+Honey Tree  Tangela (30%), Heracross (30%), Farfetch'd (30%), Snorlax (10%)
+ 
+Sunyshore City
+Levels: 50 - 60 (Surfing)
+==================================================================================================================================
+Surf        Tentacruel (60%), Pelipper (30%), Mantine (10%)
+Old Rod     Magikarp (60%), Krabby (30%), Staryu (10%)
+Good Rod    Magikarp (60%), Krabby (30%), Staryu (10%)
+Super Rod   Gyarados (60%), Kingler (30%), Starmie (10%)
+ 
+Route 223
+Levels: 50 - 60 (Surfing)
+==================================================================================================================================
+Surf        Tentacruel (60%), Pelipper (30%), Mantine (10%)
+Old Rod     Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Good Rod    Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Super Rod   Gyarados (60%), Wailmer (30%), Octillery (5%), Wailord (5%)
+ 
+Pokemon League
+Levels: 50 - 60 (Surfing)
+==================================================================================================================================
+Surf        Tentacruel (60%), Pelipper (30%), Mantine (10%)
+Old Rod     Magikarp (60%), Luvdisc (30%), Corsola (10%)
+Good Rod    Magikarp (60%), Luvdisc (30%), Corsola (10%)
+Super Rod   Gyarados (60%), Luvdisc (30%), Corsola (10%)
+ 
+Victory Road ~ 1F
+Levels: 59 - 59 (Walking)
+==================================================================================================================================
+Morning     Machoke (20%), Golbat (20%), Graveler (10%), Medicham (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+Day         Machoke (20%), Golbat (20%), Graveler (10%), Medicham (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+Night       Machoke (20%), Golbat (20%), Graveler (10%), Medicham (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+ 
+Victory Road ~ 2F
+Levels: 59 - 59 (Walking)
+==================================================================================================================================
+Morning     Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+Day         Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+Night       Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+ 
+Victory Road ~ B1F
+Levels: 59 - 59 (Walking), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Surf        Floatzel (65%), Golbat (35%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Victory Road ~ 1F Back 1
+Levels: 59 - 59 (Walking)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+ 
+Victory Road ~ 1F Back 2
+Levels: 59 - 59 (Walking), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Surf        Sealeo (60%), Dewgong (30%), Lapras (10%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Gyarados (100%)
+ 
+Victory Road ~ 1F Back 3
+Levels: 59 - 59 (Walking)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+ 
+Route 224
+Levels: 59 - 59 (Walking), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Beautifly (20%), Dustox (20%), Weepinbell (10%), Chatot (10%), Roselia (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Day         Beautifly (20%), Dustox (20%), Weepinbell (10%), Chatot (10%), Roselia (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Night       Beautifly (20%), Dustox (20%), Weepinbell (10%), Gloom (10%), Roselia (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Poke Radar  Shuckle (5%)
+Surf        Tentacruel (60%), Pelipper (30%), Gastrodon (10%)
+Old Rod     Magikarp (60%), Luvdisc (30%), Corsola (10%)
+Good Rod    Magikarp (60%), Luvdisc (30%), Corsola (10%)
+Super Rod   Gyarados (60%), Luvdisc (30%), Corsola (10%)
+ 
+Turnback Cave
+Levels: 65 - 66 (Walking)
+==================================================================================================================================
+Morning     Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone (10%), Solrock (10%)
+Day         Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone (10%), Solrock (10%)
+Night       Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone (10%), Solrock (10%)
+ 
+Route 225
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Day         Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Night       Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Surf        Poliwhirl (60%), Golduck (40%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 226
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Raticate (20%), Fearow (20%), Arbok (15%), Sandslash (15%), Rapidash (10%), Dodrio (10%), Kingler (10%)
+Day         Raticate (20%), Fearow (20%), Arbok (15%), Sandslash (15%), Rapidash (10%), Dodrio (10%), Kingler (10%)
+Night       Raticate (20%), Fearow (20%), Arbok (15%), Sandslash (15%), Rapidash (10%), Dodrio (10%), Kingler (10%)
+Surf        Pelipper (60%), Tentacruel (40%)
+Old Rod     Magikarp (60%), Horsea (30%), Relicanth (10%)
+Good Rod    Magikarp (60%), Horsea (30%), Relicanth (10%)
+Super Rod   Gyarados (60%), Seadra (30%), Relicanth (10%)
+ 
+Route 227
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Day         Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Night       Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Surf        Poliwhirl (100%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 228
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Cacturne (20%), Sandslash (20%), Dugtrio (20%), Vibrava (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Day         Cacturne (20%), Sandslash (20%), Dugtrio (20%), Vibrava (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Night       Cacturne (20%), Sandslash (20%), Dugtrio (20%), Vibrava (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Surf        Poliwhirl (100%)
+Old Rod     Magikarp (65%), Barboach (35%)
+Good Rod    Magikarp (65%), Barboach (35%)
+Super Rod   Gyarados (65%), Whiscash (35%)
+ 
+Route 229
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Scyther (20%), Pinsir (20%), Ledian (20%), Roselia (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Day         Scyther (20%), Pinsir (20%), Sunkern (20%), Roselia (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Night       Scyther (20%), Pinsir (20%), Ariados (20%), Roselia (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Surf        Masquerain (100%)
+Old Rod     Magikarp (65%), Goldeen (35%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Super Rod   Gyarados (65%), Seaking (35%)
+ 
+Resort Area
+Levels: 1 - 100 (Surfing), 1 - 100 (All Rods)
+==================================================================================================================================
+Surf        Magikarp (100%)
+Old Rod     Magikarp (100%)
+Good Rod    Magikarp (100%)
+Super Rod   Magikarp (100%)
+ 
+Route 230
+Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Tropius (10%), Zangoose (10%), Seviper (10%), Togetic (5%)
+Day         Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Tropius (10%), Zangoose (10%), Seviper (10%), Togetic (5%)
+Night       Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Tropius (10%), Zangoose (10%), Seviper (10%), Togetic (5%)
+Surf        Sealeo (60%), Tentacruel (40%)
+Old Rod     Magikarp (60%), Corsola (30%), Wailmer (10%)
+Good Rod    Magikarp (65%), Corsola (30%), Wailmer (10%)
+Super Rod   Gyarados (65%), Corsola (30%), Wailord (10%)
+ 
+Stark Mountain ~ Outside
+Levels: 66 - 68 (Walking)
+==================================================================================================================================
+Morning     Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)
+Day         Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)
+Night       Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)
+ 
+Stark Mountain ~ Entrance
+Levels: 67 - 69 (Walking)
+==================================================================================================================================
+Morning     Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Day         Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Night       Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+ 
+Stark Mountain ~ Interior
+Levels: 67 - 69 (Walking)
+==================================================================================================================================
+Morning     Magcargo (20%), Rhydon (20%), Golbat (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Day         Magcargo (20%), Rhydon (20%), Golbat (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Night       Magcargo (20%), Rhydon (20%), Golbat (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+ 
